@@ -1,0 +1,10 @@
+---
+title: "Konrad Swierczek"
+about:
+    template: jolla
+    image: assets/profile.jpg
+---
+
+Who is Konrad Swierczek?
+
+## Some Headings?

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Konrad Swierczek",
+    "section": "",
+    "text": "Who is Konrad Swierczek?"
+  },
+  {
+    "objectID": "index.html#some-headings",
+    "href": "index.html#some-headings",
+    "title": "Konrad Swierczek",
+    "section": "Some Headings?",
+    "text": "Some Headings?"
+  },
+  {
+    "objectID": "sound.html",
+    "href": "sound.html",
+    "title": "Sound Engineer",
+    "section": "",
+    "text": "A page to talk about my sound engineering."
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
+    "section": "",
+    "text": "A page to talk about my music making."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email\nSubscribe?\nSocials?"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "A page to talk about my research."
+  }
+]

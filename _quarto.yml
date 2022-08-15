@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  search: false
+  title: "Konrad Swierczek"
+  favicon: assets/favicon.png
+  navbar:
+    right:
+      - sound.qmd
+      - music.qmd
+      - research.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-after-body: footer.html
+
+
+
