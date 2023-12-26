@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "How to contact me.\nEmail\nSubscribe?\nSocials?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Konrad Swierczek",
@@ -14,13 +21,6 @@
     "text": "Some Headings?"
   },
   {
-    "objectID": "sound.html",
-    "href": "sound.html",
-    "title": "Sound Engineer",
-    "section": "",
-    "text": "A page to talk about my sound engineering."
-  },
-  {
     "objectID": "music.html",
     "href": "music.html",
     "title": "Music",
@@ -28,17 +28,17 @@
     "text": "A page to talk about my music making."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email\nSubscribe?\nSocials?"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
     "text": "A page to talk about my research."
+  },
+  {
+    "objectID": "sound.html",
+    "href": "sound.html",
+    "title": "Sound Engineer",
+    "section": "",
+    "text": "A page to talk about my sound engineering."
   }
 ]
