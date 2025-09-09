@@ -1,5 +1,4 @@
 ---
-title: "Konrad Swierczek"
 about:
     template: jolla
     image: assets/profile.jpg
@@ -7,4 +6,6 @@ about:
 
 Welcome to my website: I'm passionate about music, technology, and science. Here you can find some details about what I'm up to, and some of my past work. I'm not very active on social media, so I hope to use this website to document the exciting work I'm fortunate to be doing! My professional life so far has led to range very different work: although I'd like to think it's all linked by a love music and a desire to both understand music while improving our ability to create it and spread it with technology. With that in mind, this site is split into three sections to keep things somewhat tidy. Feel free to reach out to me over email if you're interested in chatting or working together!
 
-## Some Headings?
+## About Me
+
+
