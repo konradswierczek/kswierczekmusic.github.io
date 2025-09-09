@@ -11,13 +11,16 @@ website:
       - music.qmd
       - research.qmd
       - contact.qmd
+    page-footer: 
+      right: 
+        - icon: envelope
+          href: mailto:kswierczekmusic@gmail.com
+        - icon: github
+          href: https://github.com/konradswierczek/
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-    include-after-body: footer.html
-
-
-

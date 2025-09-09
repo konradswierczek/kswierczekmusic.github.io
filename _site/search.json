@@ -7,11 +7,18 @@
     "text": "How to contact me.\nEmail\nSubscribe?\nSocials?"
   },
   {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
+    "section": "",
+    "text": "A page to talk about my music making."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Konrad Swierczek",
     "section": "",
-    "text": "Who is Konrad Swierczek?"
+    "text": "Welcome to my website: I’m passionate about music, technology, and science. Here you can find some details about what I’m up to, and some of my past work. I’m not very active on social media, so I hope to use this website to document the exciting work I’m fortunate to be doing! My professional life so far has led to range very different work: although I’d like to think it’s all linked by a love music and a desire to both understand music while improving our ability to create it and spread it with technology. With that in mind, this site is split into three sections to keep things somewhat tidy. Feel free to reach out to me over email if you’re interested in chatting or working together!"
   },
   {
     "objectID": "index.html#some-headings",
@@ -19,13 +26,6 @@
     "title": "Konrad Swierczek",
     "section": "Some Headings?",
     "text": "Some Headings?"
-  },
-  {
-    "objectID": "music.html",
-    "href": "music.html",
-    "title": "Music",
-    "section": "",
-    "text": "A page to talk about my music making."
   },
   {
     "objectID": "research.html",
