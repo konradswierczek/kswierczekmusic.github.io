@@ -8,4 +8,6 @@ Welcome to my website: I'm passionate about music, technology, and science. Here
 
 ## About Me
 
+I completed a Bachelor of Music (specialization, Music Cognition) at McMaster University in 2018 where I studied jazz double bass with Clark Johnston, and also played in the McMaster Big Band under Mike Malone, and studied small ensembles with Kevin Dempsey. In 2019, I started graduate studies at McMaster University in the Department of Psychology, Neuroscience, & Behaviour working with Matthew Woolhouse at the Digital Music Lab. Unfortunatley, [in 2023, Matthew passed away from cancer](https://www.mus.cam.ac.uk/news/matthew-woolhouse-1965-2023). I was "adopted" by Michael Schutz just across the hall at the Music Acoustics Perception & Learning Lab, where I continued my PhD work. 
 
+I'm also the Digital Media Manager of the Canadian Chopin Society, where I've also work as the Technical Director for the Fourth, Fifth, and Sixth Canadian Chopin Piano Competitions.
