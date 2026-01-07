@@ -1,0 +1,25 @@
+---
+title: "McMaster University Percussion Ensemble: Swatches by Josh Gottry"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: [Recording]
+image: img/swatches_001.JPG
+date: 07-24-2025
+description: "Recording a composition for three players on one marimba." 
+---
+
+{{< video  https://www.youtube.com/watch?v=LljDVJ97YkU&list=PLKxuilLtp-P1R0C8ycQXsYW-fm_J6nLku >}}
+
+
+[Swatches](https://gottrypercussion.com/swatches/) is a unique piece by Josh Gottry written for one marimba performed by three players. I recorded the McMaster Percussion Ensemble performing this piece in winter of 2025 at the LR WIlson Concert Hall at McMaster University alongside director of photography [Will Spitzer](https://www.willspitzermedia.com/).
+
+![](img/swatches_001.JPG)
+
+As far as recording projects go, this one was kept fairly simple: two Lauten Audio LA120 with omnidirectional capsules recorded through a Focusrite Clarett 2Pre USB, two cameras, and an iPhone recording through the Blackmagic Camera App as an experiment. To my own surprise, the iPhone footage made it into the final edit, and played nicely with the Canon and Sony cameras. The compact setup made it easy to load in and strike quickly, which was important to maximize our recording time.
+
+All five works are available on [YouTube](https://www.youtube.com/watch?v=LljDVJ97YkU&list=PLKxuilLtp-P1R0C8ycQXsYW-fm_J6nLku).
+
+![](img/swatches_003.JPG)

@@ -1,0 +1,31 @@
+---
+title: "The Sixth Canadian Chopin Piano Competition"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: [Canadian Chopin Society, Recording, Livestreaming]
+image: img/6ccpc_010.jpg
+date: 01-06-2025
+description: "A week as Technical Director of one of the most exciting weeks of classical music in Canada." 
+---
+![](img/6ccpc_001.jpg)
+
+The Sixth Canadian Chopin Piano Competition was held from January 9-13 at the TELUS Centre for Performance and Learning in Toronto. This is always a particularly exciting event for me as it bring together my work for the Canadian Chopin Society as Digital Media Manager with my work in production and events. As Technical Director of the competition, it was my responsibility to coordinate the live sound, YouTube livestream, recording, lighting, and production staff. Throughout the week, we used an Allen & Heath SQ5 for both live and recorded audio along with DPA and Audio Technica microphones. Special thanks to [RP Dynamics](https://rpdynamics.com/) for providing much of the rental equipment.
+
+![](img/6ccpc_002.JPG)
+
+The competition opened in Temerty Theatre with a recital by Krysztof Jablonski and Lingfei (Stephan) Xie. While this event was not live streamed, it was recorded. Immediately following the recital we needed to move into Mazzolenni Hall for the first day of the competition requiring a quick and easy setup and strike. 
+
+![](img/6ccpc_005.JPG)
+
+For the next few days, the first rounds of the competition continue in Mazolenni Hall.
+
+![](img/6ccpc_006.JPG)
+
+The finals and gala winners concert were held in Koerner Hall.
+
+![](img/6ccpc_010.jpg)
+
+You can find all the recordings from the competition on the [Canadian Chopin Society Youtube Channel](https://www.youtube.com/@CanadianChopinSociety)

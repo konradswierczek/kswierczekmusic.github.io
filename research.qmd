@@ -1,5 +1,21 @@
 ---
-title: "Research"
+title: "Researcher"
+site-path: research.qmd
+listing:
+  id: posts 
+  contents: posts/research
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: true
+page-layout: full
 ---
 
-A page to talk about my research.
+I started working in music research in 2015 at the Digital Music Lab at McMaster University working on theories of tonal attraction. Since then, I've worked on the perception of diminished seventh chords, consonance and dissonance, key finding algorithms, music corpus analysis, evaluating predictions, and the influence of cannabis on musicians in live concerts.
+
+## Updates
+
+::: {#posts}
+:::

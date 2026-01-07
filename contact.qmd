@@ -1,9 +1,5 @@
 ---
-title: "Contact"
+title: "Contact Me"
 ---
 
-The best way to contact me is over email:
-
-For academic matters: swierckj@mcmaster.ca
-
-For music and audio engineering: kswierczekmusic@gmail.com
+Email me at [konrad@konradswierczek.ca](mailto:konrad@konradswierczek.ca)

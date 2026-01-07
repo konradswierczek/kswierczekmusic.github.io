@@ -1,0 +1,18 @@
+services:
+  render:
+    image: rocker/verse:4.5.0
+    container_name: quarto-render
+    volumes:
+      - .:/home/rstudio/project
+    working_dir: /home/rstudio/project
+    command: quarto render .
+
+  preview:
+    image: rocker/verse:4.5.0
+    container_name: quarto-preview
+    volumes:
+      - .:/home/rstudio/project
+    working_dir: /home/rstudio/project
+    ports:
+      - "4200:4200"
+    command: quarto preview . --host 0.0.0.0 --port 4200

@@ -1,0 +1,24 @@
+---
+title: "Klavierfest: The Sound of Innovation - How AI and Technology Impact Our Music, Minds, and Machines"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: []
+image: https://localist-images.azureedge.net/photos/47849807637932/card/8baf6a2e00cbc0b5c3f8db6ef4be11c5fbf19915.jpg
+date: 10-09-2024
+description: "A symposium at Bowdoin College discussing how music and AI intersect." 
+---
+
+Bowdoin College hosted a fascinating symposium to discuss the intersection of artificial intelligence, cutting-edge technology, and the timeless art of music. I was invited to give a talk on my research at the MAPLE Lab, and participate in a panel discussion. My talk was titled "Does AI Hear What We Hear? Testing Music Technology’s Human Touch". You can find the slides from my talk, with reproducible cobe [on my GitHub.](https://konradswierczek.github.io/klavierfest2024)
+
+::: {#fig-elephants layout-ncol=2}
+![](klavierfest_001.JPG)
+
+![](klavierfest_002.JPG)
+
+Kanbar Auditorium, Studzinski Recital Hall
+:::
+
+[More info on Klavierfest](https://calendar.bowdoin.edu/event/klavierfest-the-sound-of-innovation-how-ai-and-technology-impact-our-music-minds-and-machines)

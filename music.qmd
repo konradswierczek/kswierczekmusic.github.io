@@ -1,5 +1,12 @@
 ---
-title: "Music"
+title: "Musician"
+site-path: music.qmd
+page-layout: full
 ---
+COMING SOON
+<!--  I'm a double and electric bass player and composer/arranger. -->
 
-A page to talk about my music making.
+<!-- ## Updates -->
+
+<!-- ::: {#posts} -->
+<!-- ::: -->

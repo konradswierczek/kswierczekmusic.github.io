@@ -15,7 +15,7 @@ website:
   page-footer:
     right: 
       - icon: envelope
-        href: mailto:kswierczekmusic@gmail.com
+        href: mailto:konrad@konradswierczek.ca
       - icon: github
         href: https://github.com/konradswierczek/
 

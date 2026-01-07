@@ -1,0 +1,13 @@
+---
+title: "Emily Wood: McMaster GradFlix 2021"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: [Double Bass]
+date: 03-31-2021
+description: "" 
+---
+
+https://www.youtube.com/watch?v=1YU080q9kcg

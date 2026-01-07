@@ -1,5 +1,23 @@
 ---
 title: "Sound Engineer"
+site-path: sound.qmd
+listing:
+  id: posts 
+  contents: posts/sound
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: true
+page-layout: full
 ---
 
-A page to talk about my sound engineering.
+I've been working as a freelance audio engineer since 2011. I have extensive experience in Live Sound, Broadcast Mixing, System Design/Optimization/Installation, and Studio Recording.
+
+I'm hoping to add more updates in the future to showcase some of the work I've been doing!
+
+## Updates
+
+::: {#posts}
+:::

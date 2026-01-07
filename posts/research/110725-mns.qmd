@@ -1,0 +1,23 @@
+---
+title: "Evaluating Musical Predictions with Multiple Versions of a Work"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: []
+date: 11-07-2025
+image: https://journals.sagepub.com/cms/10.1177/20592043251384138/asset/c97b2dd7-9141-48db-abf1-fb565c0eaac1/assets/images/large/10.1177_20592043251384138-fig1.jpg
+description: "Available now in Music & Science (open access)" 
+---
+
+Music & Science has published Chapter 1 of my PhD, titled "Evaluating Musical Predictions with Multiple Versions of a Work". In this paper, we examine a number of algorithms which predict musical properties from audio files using a novel approach. Instead of testing how accurate an algorithm is (the conventional approach to testing the quality of an algorithm), we test how consistent an algorithm is across different versions of the same piece of music. When different pianists play the same piece of classical music, they often make creative choices: how fast they play, how loudly they play, what instrument they play, what room they record in. Despite these changes, we wouldn't expect the key or mode of a piece of music to change: assuming the performer is playing the music as written, a Prelude in C Major should always be in C Major. Here we show that algorithms meant to predict the majorness or minorness of a piece of music are fairly inconsistent across different performances. We take inspiration from some of the work of [Bob Sturm](https://musicairesearch.wordpress.com/people/bob-sturm/), who wrote a number of papers using the model of Clever Hans to explain the behaviour of music information retreival.
+
+This is important for a few reasons. In my travels to music cognition conferences like ICMPC, SMPC, McMaster NeuroMusic, etc., I've spoken to SO many music researchers that are shocked to hear these algorithms might have issues. On the otherhand, music information retrevial researchers seem to be keenly aware of the problems with predicting complex musical properties, but don't always have the means to solve the problems. We hope that these sorts of studies will build bridges between disciplines, and highlight how we can create solutions to seemingly intractable problems: in fact, our main motivation for starting this project arose from scratching our heads at ther behaviour of these algorithms, and not really having a good way to solve the underlying problems. We also think this work will lead to concrete approaches for making these kinds of algorithms more robust and aligned with human behaviour (standby for Chapters 2 and 3). Finally, in a world increasingly dominated with predictive tools (chatbots being a prime example), it's important we develop frameworks for understanding how predictions actually compare to our expectations: perhaps VBV might be applicable in other domains!
+
+Besides our findings, we also include all the data (and some neat visualization tools) in (a GitHub repository)[https://github.com/konradswierczek/Evaluating-Musical-Predictions-with-Multiple-Versions-of-a-Work]
+
+[The paper is available for all to read](https://journals.sagepub.com/doi/full/10.1177/20592043251384138): no paywalls. 
+
+
+

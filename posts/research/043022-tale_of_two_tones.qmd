@@ -1,0 +1,15 @@
+---
+title: "A Tale of Two Tones: Musical Dissonance in Perspective"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: [Dissonance, Digital Music Lab]
+image: tale.png
+date: 04-30-2022
+description: "A video I created for Science RendezVous 2022: an annual free family festival that takes science out of the lab and onto the street!" 
+---
+[Learn More About Science Rendevous](https://livelab.mcmaster.ca/research/science-rendezvous/science-rendezvous-2022/)
+
+{{< video https://www.youtube.com/watch?v=i_kOdX3VdZw >}}

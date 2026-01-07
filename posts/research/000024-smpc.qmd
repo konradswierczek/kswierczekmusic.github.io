@@ -1,0 +1,20 @@
+---
+title: "The biennial meeting of the Society for Music Perception and Cognition"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: []
+date: 07-28-2024
+image: https://www.banffcentre.ca/sites/default/files/Architecture%20and%20Buildings/Lloyd%20Hall/Lloyd%20Hall%20Exterior_edited_190812.jpg
+description: "July 25-27, 2024 at the Banff Centre for Arts and Creativity" 
+---
+
+SMPC 2024 was held at the Banff Center for Arts and Creativity. We presented a talk and a poster related to the first two chapters of my PhD. I hope to make the presentation from the talk available on my GitHub at some point. The poster we presented, titled "Assessing Music Content Analysis with Procedurally Manipulated Audio" is available below.
+
+<embed
+  src="kswierczek_smpc24_poster.pdf"
+  type="application/pdf"
+  width="100%"
+  height="600px">
