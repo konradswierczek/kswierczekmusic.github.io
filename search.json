@@ -1,44 +1,114 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Researcher",
+    "section": "",
+    "text": "I started working in music research in 2015 at the Digital Music Lab at McMaster University working on theories of tonal attraction. Since then, I’ve worked on the perception of diminished seventh chords, consonance and dissonance, key finding algorithms, music corpus analysis, evaluating predictions, and the influence of cannabis on musicians in live concerts."
+  },
+  {
+    "objectID": "research.html#updates",
+    "href": "research.html#updates",
+    "title": "Researcher",
+    "section": "Updates",
+    "text": "Updates\n\n\n\n\n\n\n\n\n\n\nEvaluating Musical Predictions with Multiple Versions of a Work\n\n\nAvailable now in Music & Science (open access)\n\n\n\nKonrad Swierczek\n\n\nNov 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nKlavierfest: The Sound of Innovation - How AI and Technology Impact Our Music, Minds, and Machines\n\n\nA symposium at Bowdoin College discussing how music and AI intersect.\n\n\n\nKonrad Swierczek\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n20nd Annual Neuromusic Conference\n\n\nThinking about the future of music neurosciene: looking back and looking forward\n\n\n\nKonrad Swierczek\n\n\nOct 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe biennial meeting of the Society for Music Perception and Cognition\n\n\nJuly 25-27, 2024 at the Banff Centre for Arts and Creativity\n\n\n\nKonrad Swierczek\n\n\nJul 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Tale of Two Tones: Musical Dissonance in Perspective\n\n\nA video I created for Science RendezVous 2022: an annual free family festival that takes science out of the lab and onto the street!\n\n\n\nKonrad Swierczek\n\n\nApr 30, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/research/110725-mns.html",
+    "href": "posts/research/110725-mns.html",
+    "title": "Evaluating Musical Predictions with Multiple Versions of a Work",
+    "section": "",
+    "text": "Music & Science has published Chapter 1 of my PhD, titled “Evaluating Musical Predictions with Multiple Versions of a Work”. In this paper, we examine a number of algorithms which predict musical properties from audio files using a novel approach. Instead of testing how accurate an algorithm is (the conventional approach to testing the quality of an algorithm), we test how consistent an algorithm is across different versions of the same piece of music. When different pianists play the same piece of classical music, they often make creative choices: how fast they play, how loudly they play, what instrument they play, what room they record in. Despite these changes, we wouldn’t expect the key or mode of a piece of music to change: assuming the performer is playing the music as written, a Prelude in C Major should always be in C Major. Here we show that algorithms meant to predict the majorness or minorness of a piece of music are fairly inconsistent across different performances. We take inspiration from some of the work of Bob Sturm, who wrote a number of papers using the model of Clever Hans to explain the behaviour of music information retreival.\nThis is important for a few reasons. In my travels to music cognition conferences like ICMPC, SMPC, McMaster NeuroMusic, etc., I’ve spoken to SO many music researchers that are shocked to hear these algorithms might have issues. On the otherhand, music information retrevial researchers seem to be keenly aware of the problems with predicting complex musical properties, but don’t always have the means to solve the problems. We hope that these sorts of studies will build bridges between disciplines, and highlight how we can create solutions to seemingly intractable problems: in fact, our main motivation for starting this project arose from scratching our heads at ther behaviour of these algorithms, and not really having a good way to solve the underlying problems. We also think this work will lead to concrete approaches for making these kinds of algorithms more robust and aligned with human behaviour (standby for Chapters 2 and 3). Finally, in a world increasingly dominated with predictive tools (chatbots being a prime example), it’s important we develop frameworks for understanding how predictions actually compare to our expectations: perhaps VBV might be applicable in other domains!\nBesides our findings, we also include all the data (and some neat visualization tools) in (a GitHub repository)[https://github.com/konradswierczek/Evaluating-Musical-Predictions-with-Multiple-Versions-of-a-Work]\nThe paper is available for all to read: no paywalls."
+  },
+  {
+    "objectID": "posts/research/000024-smpc.html",
+    "href": "posts/research/000024-smpc.html",
+    "title": "The biennial meeting of the Society for Music Perception and Cognition",
+    "section": "",
+    "text": "SMPC 2024 was held at the Banff Center for Arts and Creativity. We presented a talk and a poster related to the first two chapters of my PhD. I hope to make the presentation from the talk available on my GitHub at some point. The poster we presented, titled “Assessing Music Content Analysis with Procedurally Manipulated Audio” is available below."
+  },
+  {
+    "objectID": "posts/research/043022-tale_of_two_tones.html",
+    "href": "posts/research/043022-tale_of_two_tones.html",
+    "title": "A Tale of Two Tones: Musical Dissonance in Perspective",
+    "section": "",
+    "text": "Learn More About Science Rendevous"
+  },
+  {
+    "objectID": "posts/sound/010625-6ccpc_debrief.html",
+    "href": "posts/sound/010625-6ccpc_debrief.html",
+    "title": "The Sixth Canadian Chopin Piano Competition",
+    "section": "",
+    "text": "The Sixth Canadian Chopin Piano Competition was held from January 9-13 at the TELUS Centre for Performance and Learning in Toronto. This is always a particularly exciting event for me as it bring together my work for the Canadian Chopin Society as Digital Media Manager with my work in production and events. As Technical Director of the competition, it was my responsibility to coordinate the live sound, YouTube livestream, recording, lighting, and production staff. Throughout the week, we used an Allen & Heath SQ5 for both live and recorded audio along with DPA and Audio Technica microphones. Special thanks to RP Dynamics for providing much of the rental equipment.\n\nThe competition opened in Temerty Theatre with a recital by Krysztof Jablonski and Lingfei (Stephan) Xie. While this event was not live streamed, it was recorded. Immediately following the recital we needed to move into Mazzolenni Hall for the first day of the competition requiring a quick and easy setup and strike.\n\nFor the next few days, the first rounds of the competition continue in Mazolenni Hall.\n\nThe finals and gala winners concert were held in Koerner Hall.\n\nYou can find all the recordings from the competition on the Canadian Chopin Society Youtube Channel"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Contact Me",
     "section": "",
-    "text": "The best way to contact me is over email:\nFor academic matters: swierckj@mcmaster.ca\nFor music and audio engineering: kswierczekmusic@gmail.com"
+    "text": "Email me at konrad@konradswierczek.ca"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Konrad Swierczek",
     "section": "",
-    "text": "Welcome to my website: I’m passionate about music, technology, and science. Here you can find some details about what I’m up to, and some of my past work. I’m not very active on social media, so I hope to use this website to document the exciting work I’m fortunate to be doing! My professional life so far has led to range very different work: although I’d like to think it’s all linked by a love music and a desire to both understand music while improving our ability to create it and spread it with technology. With that in mind, this site is split into three sections to keep things somewhat tidy. Feel free to reach out to me over email if you’re interested in chatting or working together!"
+    "text": "I’m passionate about music, technology, and science. I’m focused on using my extensive technical skills and musical judgment to support performers and clients while bringing meaningful experiences to audiences. My experience has made me adaptable to the dynamic landscape and prepared to solve problems in high-pressure enviornments. I am also dedicated to bringing a collaborative approach to everything I do. Feel free to reach out to me over email if you’re interested in chatting or working together!\n\n\n\nI started working professionally as an audio engineer in 2011 for Audio Operations in Mississauga. I completed a Bachelor of Music (specialization, Music Cognition) at McMaster University in 2018 where I studied jazz double bass with Clark Johnston, and also played in the McMaster Big Band under Mike Malone, and studied small ensembles with Kevin Dempsey. I also completed an undergraduate thesis focusing on the perception of diminished seventh chords. In 2019, I started graduate studies at McMaster University in the Department of Psychology, Neuroscience, & Behaviour working with Matthew Woolhouse at the Digital Music Lab. Unfortunatley, in 2023, Matthew passed away from cancer. I was “adopted” by Michael Schutz just across the hall at the Music Acoustics Perception & Learning Lab, where I continued my PhD work. I’m also the Digital Media Manager of the Canadian Chopin Society, where I’ve also work as the Technical Director for the Fourth, Fifth, and Sixth Canadian Chopin Piano Competitions.\n\nThis website is built with Quarto. The source code is available on my GitHub"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Konrad Swierczek",
-    "section": "About Me",
-    "text": "About Me\nI completed a Bachelor of Music (specialization, Music Cognition) at McMaster University in 2018 where I studied jazz double bass with Clark Johnston, and also played in the McMaster Big Band under Mike Malone, and studied small ensembles with Kevin Dempsey. In 2019, I started graduate studies at McMaster University in the Department of Psychology, Neuroscience, & Behaviour working with Matthew Woolhouse at the Digital Music Lab. Unfortunatley, in 2023, Matthew passed away from cancer. I was “adopted” by Michael Schutz just across the hall at the Music Acoustics Perception & Learning Lab, where I continued my PhD work.\nI’m also the Digital Media Manager of the Canadian Chopin Society, where I’ve also work as the Technical Director for the Fourth, Fifth, and Sixth Canadian Chopin Piano Competitions."
-  },
-  {
-    "objectID": "music.html",
-    "href": "music.html",
-    "title": "Music",
     "section": "",
-    "text": "A page to talk about my music making."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "A page to talk about my research."
+    "text": "I started working professionally as an audio engineer in 2011 for Audio Operations in Mississauga. I completed a Bachelor of Music (specialization, Music Cognition) at McMaster University in 2018 where I studied jazz double bass with Clark Johnston, and also played in the McMaster Big Band under Mike Malone, and studied small ensembles with Kevin Dempsey. I also completed an undergraduate thesis focusing on the perception of diminished seventh chords. In 2019, I started graduate studies at McMaster University in the Department of Psychology, Neuroscience, & Behaviour working with Matthew Woolhouse at the Digital Music Lab. Unfortunatley, in 2023, Matthew passed away from cancer. I was “adopted” by Michael Schutz just across the hall at the Music Acoustics Perception & Learning Lab, where I continued my PhD work. I’m also the Digital Media Manager of the Canadian Chopin Society, where I’ve also work as the Technical Director for the Fourth, Fifth, and Sixth Canadian Chopin Piano Competitions.\n\nThis website is built with Quarto. The source code is available on my GitHub"
   },
   {
     "objectID": "sound.html",
     "href": "sound.html",
     "title": "Sound Engineer",
     "section": "",
-    "text": "A page to talk about my sound engineering."
+    "text": "I’ve been working as a freelance audio engineer since 2011. I have extensive experience in Live Sound, Broadcast Mixing, System Design/Optimization/Installation, and Studio Recording.\nI’m hoping to add more updates in the future to showcase some of the work I’ve been doing!"
+  },
+  {
+    "objectID": "sound.html#updates",
+    "href": "sound.html#updates",
+    "title": "Sound Engineer",
+    "section": "Updates",
+    "text": "Updates\n\n\n\n\n\n\n\n\n\n\nMcMaster University Percussion Ensemble: Swatches by Josh Gottry\n\n\nRecording a composition for three players on one marimba.\n\n\n\nKonrad Swierczek\n\n\nJul 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Sixth Canadian Chopin Piano Competition\n\n\nA week as Technical Director of one of the most exciting weeks of classical music in Canada.\n\n\n\nKonrad Swierczek\n\n\nJan 6, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/sound/072425-swatches.html",
+    "href": "posts/sound/072425-swatches.html",
+    "title": "McMaster University Percussion Ensemble: Swatches by Josh Gottry",
+    "section": "",
+    "text": "Swatches is a unique piece by Josh Gottry written for one marimba performed by three players. I recorded the McMaster Percussion Ensemble performing this piece in winter of 2025 at the LR WIlson Concert Hall at McMaster University alongside director of photography Will Spitzer.\n\nAs far as recording projects go, this one was kept fairly simple: two Lauten Audio LA120 with omnidirectional capsules recorded through a Focusrite Clarett 2Pre USB, two cameras, and an iPhone recording through the Blackmagic Camera App as an experiment. To my own surprise, the iPhone footage made it into the final edit, and played nicely with the Canon and Sony cameras. The compact setup made it easy to load in and strike quickly, which was important to maximize our recording time.\nAll five works are available on YouTube."
+  },
+  {
+    "objectID": "posts/music/033121-gradflix.html",
+    "href": "posts/music/033121-gradflix.html",
+    "title": "Emily Wood: McMaster GradFlix 2021",
+    "section": "",
+    "text": "https://www.youtube.com/watch?v=1YU080q9kcg"
+  },
+  {
+    "objectID": "posts/research/100024-neuromusic.html",
+    "href": "posts/research/100024-neuromusic.html",
+    "title": "20nd Annual Neuromusic Conference",
+    "section": "",
+    "text": "The 20th Annual Neuromusic Conference at McMaster University took place November 1-3. I presented a poster titled “Chasing Wild Horses: Evaluating Music Content Analysis with Irrelevant Transformations​”. You can view the poster below!"
+  },
+  {
+    "objectID": "posts/research/100924-klavierfest.html",
+    "href": "posts/research/100924-klavierfest.html",
+    "title": "Klavierfest: The Sound of Innovation - How AI and Technology Impact Our Music, Minds, and Machines",
+    "section": "",
+    "text": "Bowdoin College hosted a fascinating symposium to discuss the intersection of artificial intelligence, cutting-edge technology, and the timeless art of music. I was invited to give a talk on my research at the MAPLE Lab, and participate in a panel discussion. My talk was titled “Does AI Hear What We Hear? Testing Music Technology’s Human Touch”. You can find the slides from my talk, with reproducible cobe on my GitHub.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: Kanbar Auditorium, Studzinski Recital Hall\n\n\n\nMore info on Klavierfest"
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Musician",
+    "section": "",
+    "text": "COMING SOON"
   }
 ]

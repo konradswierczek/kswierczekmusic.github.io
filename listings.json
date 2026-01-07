@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/posts/research/110725-mns.html",
+      "/posts/research/100924-klavierfest.html",
+      "/posts/research/100024-neuromusic.html",
+      "/posts/research/000024-smpc.html",
+      "/posts/research/043022-tale_of_two_tones.html"
+    ]
+  },
+  {
+    "listing": "/sound.html",
+    "items": [
+      "/posts/sound/072425-swatches.html",
+      "/posts/sound/010625-6ccpc_debrief.html"
+    ]
+  }
+]
