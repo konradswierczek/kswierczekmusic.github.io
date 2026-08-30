@@ -7,7 +7,7 @@ format:
     toc-location: left
 categories: [MAPLE Lab, McMaster]
 image: defence.png
-date: 09-14-20226
+date: 09-14-2026
 description: "Watch my defence on Zoom!" 
 aliases:
   - /phd-defence.html
