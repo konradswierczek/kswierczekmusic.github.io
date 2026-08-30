@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,16 @@
 
 <title>Evaluating Musical Predictions with Multiple Versions of a Work – Konrad Swierczek</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -32,15 +38,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-000f0825b9c55ed21d14970d810c14a9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-d63a2c9c8df14b07662b36303925c8cc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -78,16 +83,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../../research.html"> 
+<span class="menu-text">Researcher</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../sound.html"> 
 <span class="menu-text">Sound Engineer</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../music.html"> 
 <span class="menu-text">Musician</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../research.html"> 
-<span class="menu-text">Researcher</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../contact.html"> 
@@ -151,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Music &amp; Science has published Chapter 1 of my PhD, titled “Evaluating Musical Predictions with Multiple Versions of a Work”. In this paper, we examine a number of algorithms which predict musical properties from audio files using a novel approach. Instead of testing how accurate an algorithm is (the conventional approach to testing the quality of an algorithm), we test how consistent an algorithm is across different versions of the same piece of music. When different pianists play the same piece of classical music, they often make creative choices: how fast they play, how loudly they play, what instrument they play, what room they record in. Despite these changes, we wouldn’t expect the key or mode of a piece of music to change: assuming the performer is playing the music as written, a Prelude in C Major should always be in C Major. Here we show that algorithms meant to predict the majorness or minorness of a piece of music are fairly inconsistent across different performances. We take inspiration from some of the work of <a href="https://musicairesearch.wordpress.com/people/bob-sturm/">Bob Sturm</a>, who wrote a number of papers using the model of Clever Hans to explain the behaviour of music information retreival.</p>
 <p>This is important for a few reasons. In my travels to music cognition conferences like ICMPC, SMPC, McMaster NeuroMusic, etc., I’ve spoken to SO many music researchers that are shocked to hear these algorithms might have issues. On the otherhand, music information retrevial researchers seem to be keenly aware of the problems with predicting complex musical properties, but don’t always have the means to solve the problems. We hope that these sorts of studies will build bridges between disciplines, and highlight how we can create solutions to seemingly intractable problems: in fact, our main motivation for starting this project arose from scratching our heads at ther behaviour of these algorithms, and not really having a good way to solve the underlying problems. We also think this work will lead to concrete approaches for making these kinds of algorithms more robust and aligned with human behaviour (standby for Chapters 2 and 3). Finally, in a world increasingly dominated with predictive tools (chatbots being a prime example), it’s important we develop frameworks for understanding how predictions actually compare to our expectations: perhaps VBV might be applicable in other domains!</p>
-<p>Besides our findings, we also include all the data (and some neat visualization tools) in (a GitHub repository)[https://github.com/konradswierczek/Evaluating-Musical-Predictions-with-Multiple-Versions-of-a-Work]</p>
+<p>Besides our findings, we also include all the data (and some neat visualization tools) in <a href="https://github.com/konradswierczek/Evaluating-Musical-Predictions-with-Multiple-Versions-of-a-Work">a GitHub repository</a></p>
 <p><a href="https://journals.sagepub.com/doi/full/10.1177/20592043251384138">The paper is available for all to read</a>: no paywalls.</p>
 
 
