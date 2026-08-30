@@ -7,7 +7,7 @@ format:
     toc-location: left
 categories: [MAPLE Lab, McMaster]
 image: smpc26_001.jpg
-date: 09-14-2026
+date: 07-25-2026
 description: "July 22-24, 2026 at Northwestern University in Evanston, Illinois" 
 ---
 
