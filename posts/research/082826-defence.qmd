@@ -1,0 +1,24 @@
+---
+title: "PhD Defence: September 14th, 2026"
+author: "Konrad Swierczek"
+format:
+  html:
+    toc: true
+    toc-location: left
+categories: [MAPLE Lab, McMaster]
+image: defence.png
+date: 09-14-20226
+description: "Watch my defence on Zoom!" 
+aliases:
+  - /phd-defence.html
+---
+
+After a long journey through graduate school, I am finally defending my PhD dissertation at 1130AM EDT on September 14th. My thesis is titled "Chasing Wild Horses: Towards Robust Music Content Analysis Without Relying Upon Ground Truth". I'm excited to discuss this work with the examination committee, and look forward to the next chapter!
+
+Here's the lay abstract from my thesis:
+
+> Music and algorithms are increasingly intertwined, from the recommendation systemsbehind streaming services to AI tools that generate new music. Since music is such adeeply human and subjective art form, it is important that these algorithms behavein ways that feel musically sensible to the people who use them. Yet evaluatingwhether an algorithm is “right” is difficult, since music is complex and the “right”answer is often difficult or impossible to determine. This dissertation proposes newways to evaluate algorithms related to music that do not rely on a single correctanswer. Instead, we measure how consistently an algorithm’s predictions hold upacross the kinds of natural variation found in real musical practice. We find thatmany algorithms are less consistent than expected. These methods give researchersand developers practical tools for building algorithms that better match how peopleactually perceive and make music.
+
+My defence will be held at McMaster University in person, but you can join over Zoom at the link below!
+
+[Join on Zoom](https://mcmaster.zoom.us/j/92387066565){.btn .btn-primary}

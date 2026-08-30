@@ -8,9 +8,9 @@ website:
   navbar:
     background: primary
     right:
+      - research.qmd
       - sound.qmd
       - music.qmd
-      - research.qmd
       - contact.qmd
   page-footer:
     right: 
